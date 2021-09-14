@@ -5,12 +5,10 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div align="center">
   
 ## Languages and Tools  
-<br/>
 <br/>
     <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
@@ -40,11 +38,9 @@
 <br/>
 <br/>
   
-
 <div align="center">
   
 ## Github Stats
-<br/>
 <br/>
 <table><tr><td valign="top" width="50%">
 
@@ -59,7 +55,6 @@
 
 <br/> 
 <br/> 
-<br/>
 <br/>
   
 <div align="center">
