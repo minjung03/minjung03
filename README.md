@@ -8,7 +8,7 @@
 
 <div align="center">
   
-## Languages and Tools  
+## 💻Languages and Tools  
 <br/>
     <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
@@ -40,7 +40,7 @@
   
 <div align="center">
   
-## Github Stats
+## 🔨Github Stats
 <br/>
 <table><tr><td valign="top" width="50%">
 
