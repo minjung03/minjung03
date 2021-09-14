@@ -2,8 +2,6 @@
 ## Hey👋, I'm minjungKim!  
 
 프론트/백엔드 개발을 배우는 초보 개발자 입니다.
-<br/>
-<br/>
 
 <a href="https://www.facebook.com/https://www.facebook.com/jj.kim.5492216" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -40,11 +38,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=minjung03&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=minjung03&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjung03&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjung03&hide_border=true&layout=compact" align="left" style="width: 100" />
 
 </td></tr></table>  
 
@@ -61,17 +59,5 @@
 
 <br />
 
-<!--
-**minjung03/minjung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
