@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,1&height=250&width=100&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
-
-# Hey👋, I'm minjungKim!
-
-프론트/백엔드 개발을 배우는 초보 개발자 입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=300&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=beginner%20developer&descAlignY=58)
+)
+<!--9, 15, 27-->
+<!--# Hey👋, I'm minjungKim!-->
+`프론트/백엔드 개발을 배우는 초보 개발자 입니다📚`
 <br/>
 <br/>
 <br/>
