@@ -1,7 +1,7 @@
 
 ## Hey👋, I'm minjungKim!  
 
-
+고등 학교를 다니며 프론트/백엔드 개발을 배우는 초보 개발자 입니다.
 
 <a href="https://www.facebook.com/https://www.facebook.com/jj.kim.5492216" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
