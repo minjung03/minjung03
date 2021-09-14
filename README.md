@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,27&height=300&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=beginner%20developer&descAlignY=58)
 <!--9, 15, 27-->
 <!--# Hey👋, I'm minjungKim!-->
-**프론트/백엔드 개발을 배우는 초보 개발자 입니다📚**
+`front/backend learning📚`
+<br/>
 <br/>
 <br/>
 <br/>
@@ -9,7 +10,7 @@
 <div align="center">
   
 ## Languages and Tools  
-  
+<br/>
 <br/>
     <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
@@ -33,12 +34,17 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=Php&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a><br><br> -->
+</div>
 
 <br/>
 <br/>
 <br/>
+  
 
+<div align="center">
+  
 ## Github Stats
+<br/>
 <br/>
 <table><tr><td valign="top" width="50%">
 
@@ -48,11 +54,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjung03&hide_border=true&layout=compact" align="left" style="width: 100" />
 
-</td></tr></table>  
+</td></tr></table> 
+</div>
 
 <br/> 
 <br/> 
-
+<br/>
+<br/>
   
 <div align="center">
  
