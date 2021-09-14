@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello!%20I'm%20minjung03!&fontSize=90&animation=fadeIn" />
 
 ## Hey👋, I'm minjungKim!  
 
