@@ -1,5 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello!%20I'm%20minjung03!&fontSize=90&animation=fadeIn" />
+
 ## Hey👋, I'm minjungKim!  
-  
+
+
 
 <a href="https://www.facebook.com/https://www.facebook.com/jj.kim.5492216" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
