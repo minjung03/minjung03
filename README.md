@@ -59,6 +59,14 @@
   
 <div align="center">
  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white
+  &link=mailto:xx@gmail.com)](mailto:xx@gmail.com)
+  
+
+ <a link="mailto:s2003@e-mirim.hs.kr" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a> 
+  
 <a href="mailto:s2003@e-mirim.hs.kr" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
