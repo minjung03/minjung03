@@ -62,7 +62,7 @@
 <a href="mailto:s2003@e-mirim.hs.kr" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.instagram.com/kmmin_03/" target="_blank">
+<a href="https://www.instagram.com/kimminjj_03/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/jj.kim.5492216" target="_blank">
