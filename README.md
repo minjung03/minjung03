@@ -40,5 +40,38 @@
 <div align="center">
   
 ## 🔨Github Stats
+<br/>
+<table><tr><td valign="center" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=minjung03&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100" /></div>
+
+</td><td valign="center" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjung03&layout=compact&show_icons=true&count_private=true&hide_border=true" style="width:100" />
+  </div>
+</td></tr></table> 
+</div>
+
+<br/> 
+<br/> 
+<br/>
+<br/>
+  
+<div align="center"> 
+  
+<a href="mailto:s2003@e-mirim.hs.kr" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.instagram.com/kimminjj_03/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/jj.kim.5492216" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/minjung03" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
+  
+</div>
 
 ----
