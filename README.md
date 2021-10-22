@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,27&height=300&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=beginner%20developer&descAlignY=58)
 <!--9, 15, 27-->
 <!--# Hey👋, I'm minjungKim!-->
-`front / backend  learning📚...`
+`front / backend /   learning📚...`
 <br/>
 <br/>
 <br/>
