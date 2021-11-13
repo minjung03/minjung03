@@ -6,8 +6,7 @@
 <br/>
 <br/>
 <br/>
-<div align="center">
-  
+<div align="center"> 
 ## 💻Languages and Tools  
 <br/>
     <div align="center">  
