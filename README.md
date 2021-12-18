@@ -56,7 +56,7 @@
   
 <div align="center"> 
   
-<a href="mailto:s2003@e-mirim.hs.kr" target="_blank">
+<a href="mailto:ikwmjj@naver.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.instagram.com/kimminjj_03/" target="_blank">
