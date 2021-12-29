@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,27&height=300&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=beginner%20developer&descAlignY=58)
 <!--9, 15, 27-->
-<!--# Hey👋, I'm minjungKim!-->
+<!--# Hey👋, I'm minjung!-->
 `front / backend  learning📚...`
 <br/>
 <br/>
@@ -56,7 +56,7 @@
   
 <div align="center"> 
   
-<a href="mailto:ikwmjj@naver.com" target="_blank">
+<a href="mailto:s2003@e-mirim.hs.kr" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.instagram.com/kimminjj_03/" target="_blank">
