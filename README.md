@@ -82,30 +82,5 @@
 </tr>
 </table> 
 
-</br>
-</br>
-</br>
-</br>
-
 </div>
 
-
-<div align="center"> 
-<!-- <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /> -->
-    
-<a href="mailto:s2003@e-mirim.hs.kr" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a> 
-
-<a href="https://www.instagram.com/kimmin__03/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
-    
-<a href="https://www.facebook.com/jj.kim.5492216" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://github.com/minjung03" target="_blank">
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-</a> 
-  
-</div>
