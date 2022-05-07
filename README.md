@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=300&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=beginner%20developer&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=300&&text=minjung03&fontSize=70&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=40&descAlignY=58)
 
 <!-- color : 15 -->
 
